@@ -1,4 +1,4 @@
-# Prj-Restaurant-Page
+# Mike's Pizza-Restaurant-Page
 
 **LIVE DEMO: https://aesthetic-souffle-013134.netlify.app/
 
